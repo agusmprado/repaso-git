@@ -1,2 +1,12 @@
 *{padding: 0;
 margin: 0;}
+
+.card-heigth{
+    width: 18rem;
+}
+
+@media(max-width: 500px){
+    .card-heigth{
+        width: 100%;
+    }
+}
